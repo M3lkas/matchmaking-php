@@ -131,5 +131,5 @@
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/ТВОЙ_ЛОГИН/matchmaking-php.git
+   git clone https://github.com/M3lkas/matchmaking-php.git
    cd matchmaking-php
